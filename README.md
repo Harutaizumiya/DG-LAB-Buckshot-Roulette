@@ -16,11 +16,13 @@
 
 在您查找到基址和偏移量后，可以将其硬编码入变量中
 
+如果您想偷下懒，可以查看下address.txt
+
 # 使用方法
 
 1. 打开steam购买“恶魔轮盘”，并运行游戏
 2. 确保已安装了python
-3. 进入`DefeatPunishment`目录，右击用终端打开，运行
+3. 进入`DG-LAB-Buckshot-Roulette`目录，右击用终端打开，运行
 ```cmd
 node websocketNode.js
 ```
